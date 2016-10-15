@@ -1,0 +1,25 @@
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+email: marymiller1954@gmail.com
+brand: Mary Miller
+headline: Inventor, Engineer and Futurist
+description: > # this means to ignore newlines until "baseurl:"
+  All about me and What I can do for you!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.com/marymiller1954/marymiller1954.github.io" # the base hostname & protocol for your site
+copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+
+# Build settings
+markdown: kramdown
+
+# Account ids
+snapwidget: 247552
+
+# Contacts
+email: marymiller1954@gmail.com
+phone: +1-919-451-0966
+
+# Tracking
+googleAnalitycsID: UA-83933844-1
+
